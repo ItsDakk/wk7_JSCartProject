@@ -1,4 +1,4 @@
-// TODO: Change all functions to arrow-functions
+// ? For some reason I coudln't get arrow functions to work on this???
 
 // Checking to see if the HTML page is still loading
 if (document.readyState == 'loading') {
